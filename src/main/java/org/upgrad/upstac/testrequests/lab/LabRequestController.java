@@ -91,5 +91,5 @@ public class LabRequestController {
             throw asBadRequest(e.getMessage());
         }
     }
-    
+
 }
